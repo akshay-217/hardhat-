@@ -1,0 +1,15 @@
+1) What is Hardhat?
+ans hardhat is an javascript etherum development enviroment for developing full stack blockchain application 
+hardhat make easy for developer to develop dapp after developing the dapp developer can compile test and deploy the dapp
+
+2)Demonstrate the steps involved in the process of
+installation and configuration of Hardhat Development
+Environment.
+ans  to install hardhat in you pc opne vscode terminal and type the command
+	npm install --save-dev hardhat
+     
+     to run the hardhat run the code
+	npx hardhat
+     to compile the smart contract type the command 
+	npx hardhat compile
+	
